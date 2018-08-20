@@ -8,3 +8,5 @@ import numpy as np
 # Create 2 numpy arrays from height and weight
 np_height = np.array(height)
 np_weight = np.array(weight)
+
+# Install PIP -------------------------------------
